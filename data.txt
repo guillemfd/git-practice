@@ -1,0 +1,3 @@
+Name: Guillem
+Age: 37
+Favorite color: blue
